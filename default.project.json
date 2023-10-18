@@ -28,7 +28,6 @@
     },
 
     "Workspace": {
-      "$path": "src/workspace",
       "$properties": {
         "FilteringEnabled": true
       },
